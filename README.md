@@ -14,7 +14,7 @@ A Python script that combines multiple files from a directory (and its subdirect
 
 ## Prerequisites
 
-- Python 3.6+
+- Python 3.4+
 - No external dependencies required
 
 ## Installation
